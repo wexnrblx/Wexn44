@@ -1,5 +1,12 @@
-<h1 align="center">Wexn</h1>
+# Wexn
 
-<h2 align="center">This is my Roblox Scripting Account</h2>
+### Lego Game Hacker 👿👿😈
+
+
+
+
+## İletişim
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/715647483640021093)](https://discord.com/users/715647483640021093)
+
+
